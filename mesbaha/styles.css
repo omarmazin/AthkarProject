@@ -1,0 +1,18 @@
+.cen{
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+button{
+    width: 100px ;
+}
+#count{
+    background-color: green;
+    color: white;
+    border: none;
+}
+#reset{
+    background-color: red;
+    color: white;
+    border: none;
+}
